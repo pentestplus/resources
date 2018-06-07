@@ -1,2 +1,2 @@
-# cehreview
-CEH Review Website
+# Resources
+Safari Live Training Resources
