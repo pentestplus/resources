@@ -1,2 +1,2 @@
-# resources
-Live training resources website
+# cehreview
+CEH Review Website
